@@ -30,4 +30,3 @@ public class FornecedorService {
         repository.deleteById(id);
     }
 }
-
